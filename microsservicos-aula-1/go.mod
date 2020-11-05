@@ -1,4 +1,4 @@
-module github.com/codeedu/avancadev-micrservice-1dia
+module github.com/tjfaccipieri/avanca01
 
 go 1.15
 
